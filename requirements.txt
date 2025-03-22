@@ -6,6 +6,5 @@ Pillow==10.2.0
 reportlab==4.0.9
 PyPDF2==3.0.1
 openpyxl==3.1.2
-sqlite3==3.39.5  # If using SQLite for local database
-mysql-connector-python==8.2.0  # If using MySQL
+mysql-connector-python==8.2.0
 requests==2.31.0
